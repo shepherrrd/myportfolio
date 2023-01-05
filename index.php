@@ -208,7 +208,7 @@
                 <div class="row">
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-1.jpg" class="img-res" alt="">
+                            <img src="assets/img/Portfolio-1.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Health Care Ai</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem1"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -218,7 +218,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-2.jpg" class="img-res" alt="">
+                            <img src="assets/img/Portfolio-2.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>News Platform</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -228,7 +228,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-3.jpg" class="img-res" alt="">
+                            <img src="assets/img/Portfolio-3.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Company Website</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem3"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -293,7 +293,7 @@
             <div class="container">
 
                 <h3>Contact</h3>
-                <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                <img src="assets/img/lines.svg" action="https://formcarry.com/s/qTbCSx8xn" method="POST" accept-charset="UTF-8"class="img-lines" alt="lines">
                 <form>
                     <div class="row">
                         <div class="col-sm-6">
@@ -306,7 +306,7 @@
                             <textarea name="message" id="mesaage" class="form-control" placeholder="Message" required></textarea>
                         </div>
                     </div>
-                    <button href="" class="btn btn-border" type="submit"><a href="mailto:@goldofonime@gmail.com">Hire Me </a> <span class="glyphicon glyphicon-send"></span></button>
+                    <button href="" class="btn btn-border" type="submit"><span class="glyphicon glyphicon-send">Hire Me !</span></button>
                 </form>
             </div>
         </section><!-- /.section-form -->
@@ -338,7 +338,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-1.jpg" alt="">
+            <img class="img-res" src="assets/img/Portfolio-1.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Health Care Ai</h4>
@@ -356,7 +356,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-2.jpg" alt="">
+            <img class="img-res" src="assets/img/Portfolio-2.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">News Platform</h4>
