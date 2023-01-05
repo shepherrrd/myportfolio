@@ -238,7 +238,7 @@
                     </div>
                     <!--<div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-4.jpg" class="img-res" alt="">
+                            <img src="assets/img/Portfolio-4.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem4"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -248,7 +248,7 @@
                     <!-- </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-5.jpg" class="img-res" alt="">
+                            <img src="assets/img/Portfolio-5.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem5"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -333,7 +333,7 @@
     </footer><!-- /#footer -->
 
     <!-- Modals -->
-    <div id="portfolioItem1" class="modal fade" role="dialog">
+    <div id="PortfolioItem1" class="modal fade" role="dialog">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
@@ -374,7 +374,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-3.jpg" alt="">
+            <img class="img-res" src="assets/img/Portfolio-3.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Company Website</h4>
