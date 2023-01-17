@@ -274,7 +274,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-xs-12">
-                        <p class="counter start" data-to="6" data-speed="2000">0</p>
+                        <p class="counter start" data-to="4" data-speed="2000">0</p>
                         <h4>Years Experience</h4>
                     </div>
                     <div class="col-sm-4 col-xs-12">
@@ -293,8 +293,8 @@
             <div class="container">
 
                 <h3>Contact</h3>
-                <img src="assets/img/lines.svg" action="https://formcarry.com/s/qTbCSx8xn" method="POST" accept-charset="UTF-8"class="img-lines" alt="lines">
-                <form>
+                <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                <form action="mail.php" method="POST" accept-charset="UTF-8">
                     <div class="row">
                         <div class="col-sm-6">
                             <input type="text" name="name" class="form-control mt-x-0" placeholder="Name" required>
@@ -306,7 +306,7 @@
                             <textarea name="message" id="mesaage" class="form-control" placeholder="Message" required></textarea>
                         </div>
                     </div>
-                    <button href="" class="btn btn-border" type="submit"><span class="glyphicon glyphicon-send">Hire Me !</span></button>
+                    <button href="" class="btn btn-border" type="submit"><span class="glyphicon glyphicon-send"></span> Hire Me<></button>
                 </form>
             </div>
         </section><!-- /.section-form -->
